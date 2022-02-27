@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b69596d8-ed5e-402d-bdc5-78a057fd1e76": {
+      "ProjectGuid": "b69596d8-ed5e-402d-bdc5-78a057fd1e76",
+      "DisplayName": "VitaHealthAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
